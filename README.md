@@ -5,8 +5,7 @@
 ✔️ EV batteries as grid storage (V2G)  
 ✔️ Sand heat batteries  
 ✔️ Laser steam turbines  
-
-![System Diagram](https://i.imgur.com/9KyZz7m.png)  
+ 
 *How it works:  
 1. Sunlight → Mirrors → Indoor PV  
 2. Excess energy → Sand batteries/V2G  
