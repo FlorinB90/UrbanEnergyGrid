@@ -1,17 +1,10 @@
-# 🌇 UrbanEnergyGrid: Self-Sustaining City Power
+# 🌇 UrbanEnergyGrid  
+**Self-Sustaining City Power System**  
+*Replacing nuclear plants with skyscraper solar + sand batteries*  
 
-**Replace nuclear/fossil fuels with:**  
-✔️ Skyscraper solar mirrors  
-✔️ EV batteries as grid storage (V2G)  
-✔️ Sand heat batteries  
-✔️ Laser steam turbines  
- 
-*How it works:  
-1. Sunlight → Mirrors → Indoor PV  
-2. Excess energy → Sand batteries/V2G  
-3. Lasers supplement steam turbines*  
-
-## 🚀 Get Involved
+## ⚡ Core Components  
 ```python
-# Quick-start simulation
-python simulations/grid_model.py --city="Hong Kong"
+1. Mirrors → Focus sunlight into buildings  
+2. EVs → Store energy as mobile batteries (V2G)  
+3. Sand → Long-term heat storage (800°C)  
+4. Lasers → On-demand steam generation  
