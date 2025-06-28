@@ -6,7 +6,11 @@
 ✔️ Sand heat batteries  
 ✔️ Laser steam turbines  
 
-![System Diagram](https://i.imgur.com/JQZ1KlD.png) *(Visual overview of energy flow)*
+![System Diagram](https://i.imgur.com/9KyZz7m.png)  
+*How it works:  
+1. Sunlight → Mirrors → Indoor PV  
+2. Excess energy → Sand batteries/V2G  
+3. Lasers supplement steam turbines*  
 
 ## 🚀 Get Involved
 ```python
