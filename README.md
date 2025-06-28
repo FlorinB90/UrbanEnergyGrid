@@ -1,12 +1,14 @@
-# UrbanEnergyGrid
-Urban Energy Grid
-# Self-Sustaining City Energy Grid  
-**Goal**: Replace nuclear/fossil fuels with:  
-- ☀️ Skyscraper solar + mirrors  
-- 🔋 EV batteries (V2G)  
-- 🏖️ Sand heat storage  
-- 🔥 Laser steam turbines  
+# 🌇 UrbanEnergyGrid: Self-Sustaining City Power
 
-## How to Help  
-- **Developers**: Fork this repo and submit PRs!  
-- **Hardware folks**: See `/prototypes` for specs.  
+**Replace nuclear/fossil fuels with:**  
+✔️ Skyscraper solar mirrors  
+✔️ EV batteries as grid storage (V2G)  
+✔️ Sand heat batteries  
+✔️ Laser steam turbines  
+
+![System Diagram](https://i.imgur.com/JQZ1KlD.png) *(Visual overview of energy flow)*
+
+## 🚀 Get Involved
+```python
+# Quick-start simulation
+python simulations/grid_model.py --city="Hong Kong"
